@@ -1,6 +1,7 @@
 # Cookie Cats – A/B Test Analysis
 Проект посвящен анализу A/B-теста в мобильной игре "Cookie Cats". 
 Цель – оценить, как перенос первых ворот (барьера) с 30 на 40 уровень влияет на удержание игроков.
+Исходный датасет взят с платформы Kaggle: [https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats].
 ## Стек 
 * **Python** (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn)
 * **SQL** (SQLite3)
