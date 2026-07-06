@@ -6,7 +6,7 @@
 Исходный датасет взят с платформы [Kaggle](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats).
 
 ## Визуализация данных
-![Дашборд Cookie Cats](<img width="841" height="572" alt="Дашборд" src="https://github.com/user-attachments/assets/1bb09a9a-566b-4454-8828-4dd8723acde4" />)
+![Дашборд Cookie Cats](cookie_cats_dashboard.png)
 ## Стек 
 * **Python** (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn)
 * **SQL** (SQLite3)
